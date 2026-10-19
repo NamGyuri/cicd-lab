@@ -10,5 +10,5 @@ images:
   newName: ghcr.io/namgyuri/cicd-lab/api
   newTag: jenkins-2
 - name: todo-web
-  newName: ghcr.io/NamGyuri/cicd-lab/web
+  newName: ghcr.io/namgyuri/cicd-lab/web
   newTag: main
