@@ -11,4 +11,4 @@ images:
   newTag: jenkins-4
 - name: todo-web
   newName: ghcr.io/namgyuri/cicd-lab/web
-  newTag: 6bd0e64113961d0ec3c2bcf9b59e5d0f64df2a13
+  newTag: bc90b1d30cdbdb762d4989f1861a738b2f907301
