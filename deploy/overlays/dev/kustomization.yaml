@@ -7,8 +7,8 @@ resources:
 - ../../base
 images:
 - name: todo-api
-  newName: ghcr.io/NamGyuri/cicd-lab/api
-  newTag: main
+  newName: ghcr.io/namgyuri/cicd-lab/api
+  newTag: jenkins-2
 - name: todo-web
   newName: ghcr.io/NamGyuri/cicd-lab/web
   newTag: main
